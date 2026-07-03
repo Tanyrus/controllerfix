@@ -1,0 +1,7 @@
+# Editor / OS cruft
+*.swp
+*~
+.DS_Store
+
+# Ashita writes addon settings next to the addon at runtime; never commit them
+controllerfix/settings/
