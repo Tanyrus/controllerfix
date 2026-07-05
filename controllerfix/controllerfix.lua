@@ -20,8 +20,8 @@
 
 addon.name    = 'controllerfix';
 addon.author  = 'Tanyrus';
-addon.version = '1.0.0';
-addon.desc    = 'Auto-manages the FFXI gamepad setting based on controller presence (XInput + DirectInput).';
+addon.version = '1.0.2';
+addon.desc    = 'Auto-manages the disable enumeration gamepad setting based on controller presence (XInput + DirectInput) to resolve the game stuttering when controller is turned off.';
 
 require('common');
 local chat = require('chat');
